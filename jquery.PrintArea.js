@@ -1,4 +1,5 @@
 /**
+ *  original author, and newer version can be found: https://github.com/RitsC/PrintArea
  *  Version 2.1
  *      -Contributors: "mindinquiring" : filter to exclude any stylesheet other than print.
  *  Tested ONLY in IE 8 and FF 3.6. No official support for other browsers, but will
